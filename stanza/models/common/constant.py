@@ -16,6 +16,7 @@ import re
 lcode2lang_raw = [
     ("abq", "Abaza"),
     ("ab",  "Abkhazian"),
+    ("xcl",  "Classical Armenian"),
     ("aa",  "Afar"),
     ("af",  "Afrikaans"),
     ("ak",  "Akan"),
